@@ -17,6 +17,7 @@
         "semver" : null,
         "git-info" : null,
         "jquery-couch" : null,
-        "flattr" : null
+        "flattr" : null,
+         "path" : null
     }
 }
